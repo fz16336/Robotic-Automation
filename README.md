@@ -13,7 +13,7 @@ The platform consist of an open-source 3D printed robotic arm designed by BCN3D:
 ![Moveo](/images/BCN3D_moveo.jpg)
 
 ## To Do
-- complete assembly of BCN3D moveo
+- complete assembly documentation for BCN3D moveo
 - formulate an inverse kinematic model
 - create motion tracking model to map 2D visual input to 3D motor output
 - train object detection and recognition for common household items
