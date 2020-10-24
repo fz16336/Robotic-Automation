@@ -1,12 +1,13 @@
 # Robotic Automation
 
-*In progress project in creating robotic automation platform*. 
+**In progress project in creating an autonomous robotic platform**. 
 
-This repository serve as creative ground for personal ideas and experiments on robotic kinematics, computer vision application, and AI intgeration for robotic systems. 
+This repository serve as creative ground for personal ideas and experiments on **robot kinematics**, **computer vision application**, and **AI intgeration** for robotic systems. 
 
 The platform consist of an open-source 3D printed robotic arm designed by BCN3D: _The Moveo_.
 
-BCN3D Moveo has 5 Degrees of Freedom cotrolled using and Arduino Mega 5 stepper motor drivers. The specifications and part files can be found in this repository, additionally the original project is referenced below. A robust control platform will also be added using ROS instead of traditional G-code.
+- BCN3D Moveo has 5 Degrees of Freedom cotrolled using and Arduino Mega 5 stepper motor drivers. The specifications and part files can be found in this repository, additionally the original project is referenced below. 
+- A robust control platform will also be added using ROS instead of traditional G-code.
 
 
 ![Moveo](/images/BCN3D_moveo.jpg)
@@ -18,7 +19,7 @@ BCN3D Moveo has 5 Degrees of Freedom cotrolled using and Arduino Mega 5 stepper 
 - train object detection and recognition for common household items
 
 ## Future Tasks
-- Pick-and-sort: recognising different objects 
+- Pick-and-sort: recognising different objects and move them corresponding to their labels. 
 
 
 ## References
